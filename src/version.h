@@ -15,19 +15,14 @@
 // ***************************************************************************************
 // ***************************************************************************************
 
-// Please FILL UP the content in this area before developing your plugin, and DO NOT modify any code
-// outside this area.
-
-static_assert(false, "Please modify your plugin information below and delete this line!");
-
 // The basic descriptions of your plugin
 // Note that the the plugin name CAN ONLY CONTAIN Enlish alphabet, digit, dash(-) and
 // underscore(_). 
-#define PLUGIN_NAME "HelloWorldPrinter"
+#define PLUGIN_NAME "SubLoginPatch"
 // Describe what your plugin does
 // We recommend you start the introduction with a third-person singular verb.
-#define PLUGIN_INTRODUCTION "Prints \"Hello, World!\" in the console."
-#define PLUGIN_AUTHOR "Me"
+#define PLUGIN_INTRODUCTION "Patch plugin for fixing SubClientLogin exploit"
+#define PLUGIN_AUTHOR "ShrBox"
 
 // The version of your plugin. If you do not know how to set it, please refer
 // to https://semver.org/ .
